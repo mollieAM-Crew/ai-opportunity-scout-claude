@@ -1,0 +1,15 @@
+{
+  "name": "ai-opportunity-scout",
+  "displayName": "AI Opportunity Scout",
+  "version": "0.1.1",
+  "description": "Find your highest-value AI next move using relevant context available in Claude. Unlock the full map with an optional Watch Me AI newsletter signup.",
+  "author": {
+    "name": "Mollie Amkraut Mueller",
+    "url": "https://molliemueller.com"
+  },
+  "homepage": "https://molliemueller.com/ai-opportunity-scout",
+  "license": "MIT",
+  "repository": "https://github.com/mollieAM-Crew/ai-opportunity-scout-claude",
+  "privacyPolicyUrl": "https://github.com/mollieAM-Crew/ai-opportunity-scout-claude/blob/main/PRIVACY.md",
+  "icon": "assets/icon.png"
+}

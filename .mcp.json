@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai-opportunity-scout": {
+      "type": "http",
+      "url": "https://ai-opportunity-scout-claude.vercel.app/mcp"
+    }
+  }
+}
