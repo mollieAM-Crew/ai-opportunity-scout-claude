@@ -4,7 +4,7 @@ Find your highest-value AI next move using relevant context available in Claude.
 
 ## How it works
 
-Ask **“Where should I be using AI that I am not already?”** Scout’s connector returns a diagnostic framework, and Claude applies it to context actually available in your conversation and enabled Claude features. If there is too little evidence to ground the first recommendation, Scout asks one targeted question. It never implies access to your ChatGPT history.
+Ask **“Where should I be using AI that I am not already?”** Claude reads the diagnostic framework bundled with this plugin and applies it to work context you provide in the current conversation. The connector checks service availability. If there is too little evidence to ground the first recommendation, Scout asks one targeted question. It does not query other chats, memory, conversation summaries, or user files.
 
 You can optionally unlock all three recommendations by explicitly agreeing to receive **Watch Me AI**, Mollie Mueller’s practical AI newsletter, and providing your email address. Unsubscribe anytime. The first recommendation remains available if you decline. The full map appears in chat after the signup tool succeeds; finish subscribing by clicking the confirmation link in Kit’s email when required.
 
